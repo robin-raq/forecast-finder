@@ -48,6 +48,6 @@ This project was created on MacOS. Before you begin, you will need API keys from
 - Allow users to favorite locations and display those locations in a list.
 - Allow users to click on a location from that list to load it's forecast.
 - Include iconography for improved styling.
-
+- Add search form validation and error notification for user.
 
 
